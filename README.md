@@ -12,6 +12,8 @@ We apply ComFu to fuse FINCH, the state-of-the-art "parameter-free" approach, wh
 # System Overview
 [ComFu_teaser.pdf](https://github.com/Vastlab/ComFu/files/10196395/ComFu_teaser.pdf)
 
+![ComFu_teaser](https://user-images.githubusercontent.com/20711687/206746475-c2e053f9-f4e6-45e0-baea-e459d64b7622.jpg)
+
 ComFu improves clustering by fusing different clustering results balancing the goal of commonality with noise reduction.
 Given different base clustering results, we compute a commonality matrix by counting how often each pair of points in the dataset co-occur in the same cluster. 
 We first build initial clusters from reliable pairs with high commonality and then assign the remaining points to maximize their commonality with existing clusters.
