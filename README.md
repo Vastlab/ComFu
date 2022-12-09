@@ -10,7 +10,6 @@ We then evaluate ComFu on practical vision clustering problems, advancing the st
 We apply ComFu to fuse FINCH, the state-of-the-art "parameter-free" approach, which returns multiple partitions and can use multiple distance metrics, and show that ComFu improves their result by fusing over metrics and partitions.
 
 # System Overview
-[ComFu_teaser.pdf](https://github.com/Vastlab/ComFu/files/10196395/ComFu_teaser.pdf)
 
 ![ComFu_teaser](https://user-images.githubusercontent.com/20711687/206746475-c2e053f9-f4e6-45e0-baea-e459d64b7622.jpg)
 
